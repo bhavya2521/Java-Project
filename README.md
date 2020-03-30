@@ -1,2 +1,5 @@
-# Java-Project
-An interface to interact with database is a java project which is a very simple and basic version of a database management system (DBMS) interface which allows the user to input queries to a database without using the query language itself.
+## Interactive interface to database
+
+create database auth_data;
+use auth_data;
+create table auth_users (username varchar(255), password varchar(255), gender varchar(255), emailid varchar(255));
